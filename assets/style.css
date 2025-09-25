@@ -1,0 +1,11 @@
+* {
+    overflow-x: hidden;
+}
+
+.corners {
+    border-radius: 6%;
+}
+
+.bg-dedo {
+    /* background-color: rgb(245, 236, 218); */
+}
